@@ -11,5 +11,6 @@
     "fileMatch": ["\\.yaml$"]
   },
   "timezone": "Europe/Madrid",
-  "prHourlyLimit": 8
+  "prHourlyLimit": 8,
+  "requiredStatusChecks": null
 }
