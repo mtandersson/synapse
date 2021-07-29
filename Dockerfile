@@ -1,4 +1,4 @@
-FROM matrixdotorg/synapse:v1.38.1
+FROM matrixdotorg/synapse:v1.39.0
 
 
 RUN apt-get update && apt-get install -y \
